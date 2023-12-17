@@ -1,0 +1,30 @@
+.Title{
+    background-color: greenyellow;
+   
+
+}
+
+.Nv{
+    
+    display:inline-block;
+
+}
+
+li {
+list-style: none;
+display: inline;
+padding: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+    #D{
+        left: 160px;
+    }
+    #U{
+       right: 55px;
+    }
+    
+    
